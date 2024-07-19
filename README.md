@@ -56,3 +56,18 @@ By default, Replit runs the `dev` script, but you can configure it by changing t
 ### Typescript
 
 Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+
+React will make this dom manipulation superfast 
+When we filter card then browser will re render the component.
+
+React is good at dom manipulation.
+
+React Fiber (Reconcilation algorithm)
+find out the difference between actual dom and virtual dom and update the UI. 
+
+deaf algorithm.
+
+Why React is fast:
+Bcz react is doing effecient dom manipulation.
+Bcz they have virtual dom.
+

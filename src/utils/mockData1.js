@@ -1,4 +1,4 @@
-let restaurantList = [
+const restaurantList = [
   {
   info:{
     id: "2831",
